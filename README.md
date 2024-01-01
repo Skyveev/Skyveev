@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skyveev
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Data Science/ Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me harunavivian@gmail.com
